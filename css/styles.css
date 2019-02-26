@@ -1,0 +1,12 @@
+h4{
+  text-align: center;
+  font-style: italic;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron{
+  background-color: lightblue;
+}
+button{
+  background-color:green;
+}
