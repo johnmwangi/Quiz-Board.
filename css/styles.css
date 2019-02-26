@@ -1,21 +1,27 @@
-h4{
+h4 {
   text-align: center;
   font-family: 'Abril Fatface', cursive;
+  text-decoration-color: white;
 }
 
-.jumbotron{
+.jumbotron {
+  background-color: green;
+}
+
+button {
+  background-color: green;
+}
+
+p1 {
+  background-color: green;
+  font-family: 'Monoton', cursive;
+}
+
+p2 {
+  background-color: green;
+  font-family: 'Monoton', cursive;
+}
+
+.container {
   background-color: lightblue;
-}
-button{
-  background-color:green;
-}
-
-p1{
-  background-color: green;
-  font-family: 'Monoton', cursive;
-}
-
-p2{
-  background-color: green;
-  font-family: 'Monoton', cursive;
 }
