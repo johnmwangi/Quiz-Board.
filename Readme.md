@@ -19,7 +19,7 @@ Web browser
 Internet connection Offline copy available if you fork and save in your computer as a file
 
 ## Known Bugs
-No bugs for now, if any arise contact 0702807225.
+No bugs for now, if any arise contact 0702807225 or reach me out on jonesmwas22 on twitter
 
 ## Language Used
 HTML
