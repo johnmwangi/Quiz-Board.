@@ -7,6 +7,7 @@ By John mwangi.
 
 ## Description
 Quiz-board project is a project that come with couple of quesitons and with couple of radio type too which provides a plat-form for the user to select answer and after the selection of the correct answer, comes with a submit button which helps the user to know the results.
+meanwhile: checkout it out! https://johnmwangi.github.io/Quiz-Board./.
 
 ## Setup/Installation Requirements
 * This is a great place
