@@ -3,7 +3,7 @@
 #### A quiz with inbuilt answers that provide the option for the user to select the correct answer, 10/2/2019
 
 #### List of contributors:
-By John mwangi as Auther and Jobry
+By John mwangi as Auther and Jobry.
 
 ## Description
 Quiz-board project is a project that come with couple of quesitons and with couple of radio type too which provides a plat-form for the user to select answer and after the selection of the correct answer, comes with a submit button which helps the user to know the results.
@@ -27,7 +27,7 @@ Javascript This also includes jQuerry a library for javascript.
 CSS - Cascading Style Sheet. Also included bootstrap a library to css.
 Markdown Syntax
 
-## BDD:
+## BDD.
 
 | User Input                                                     | Expectation                                                             |
 |----------------------------------------------------------------|-------------------------------------------------------------------------|
